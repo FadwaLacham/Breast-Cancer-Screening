@@ -10,8 +10,7 @@ This project aims to develop a binary classification system to detect breast can
 5. [Conclusion and Results](#conclusion-and-results)
 6. [Interface Development](#interface-development)
 7. [Code Link](#code-link)
-8. [Installation and Execution](#installation-and-execution)
-9. [Authors](#authors)
+
 
 ---
 
